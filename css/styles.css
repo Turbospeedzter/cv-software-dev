@@ -63,8 +63,8 @@
 .stories {
       display:block;
       position: relative;
-      width: 35%;
-      left: 30%;
+      width: 60%;
+      left: 20%;
       border-style: solid;
       padding: 30px;
       margin-top: 20px;
@@ -136,5 +136,9 @@
       font-family:'Times New Roman', Times, serif ;
       font-size:xx-large;
 
+}
+
+.clickme {
+      margin: 50px;
 }
 
