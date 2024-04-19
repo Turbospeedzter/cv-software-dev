@@ -130,9 +130,9 @@
 
 .aboutbox {
       display:block;
-      width: 40%;
+      margin: 20px;
       position: relative;
-      left: 20%;
+      left: 10px;
       font-family:'Times New Roman', Times, serif ;
       font-size:xx-large;
 
